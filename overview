@@ -13,5 +13,9 @@
 - C basic
 - C advanced
 - Exercise
-- Microcontroller: STM32 : interface : UART, I2C, SPI, USB.
+- Microcontroller: STM32
+  + Interface : UART, I2C, SPI, USB.
   + Interrupt, timer,...
+  + Assembly
+  + RTOS, CAN, LIN
+  
