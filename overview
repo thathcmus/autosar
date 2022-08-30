@@ -11,4 +11,6 @@
 --------------
 => Controll by CAN (2 wires)
 - C basic
-- 
+- C advanced
+- Exercise: UART, I2C, CAN
+- Microcontroller: STM32
