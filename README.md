@@ -1,8 +1,6 @@
-{
 - Applications=> C and C++, depend on module
 - BSW 
-- Hardware -
-}
+- Hardware
 => Controll by CAN (2 wires)
 
 - C basic
